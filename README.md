@@ -11,4 +11,5 @@ and large plates respectively. Each client can only use what equipment is avaiab
 and only one client can access the equipment at a time. 30 threads (clients) are
 able to work at once.
 
+NOTE: Assignment2.java is the main file.
 NOTE: This simulation runs much faster when the amount of clients is reduced.
